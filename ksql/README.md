@@ -1,5 +1,5 @@
 # Overview
-KSQL interpreter for Apache Zeppelin
+KSQL interpreter for Apache Zeppelin -- IBM Data Science 
 
 # Connection
 The Interpreter opens a connection with the KSQL REST endpoint.
